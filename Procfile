@@ -1,1 +1,1 @@
-worker: python bernadar.py
+worker: python sherlock.py
