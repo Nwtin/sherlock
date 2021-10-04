@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 privado = [779455996,1625562699]
 
-grupos = [-1001558388459,-1001443222542]
+grupos = [-1001472038306,-1001558388459,-1001443222542]
 
 EXCEPT = []
 
