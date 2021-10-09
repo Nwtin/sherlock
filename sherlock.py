@@ -384,7 +384,7 @@ def bniio(men):
         bot.reply_to(men, '<b>' + '⚠️ ERRADO BURRO ⚠️' + '</b>')
     else:
         try:
-         menu = f'olá, <pre>{men.from_user.first_name}</pre>!\n<b>\nMeu nome é @MkConsultasBot. Adicione-me em um grupo e me coloque como Admin para utilizar todos os meus recursos!\n\nConheça abaixo, todos os meus comandos:</b>\n\n'
+         menu = f'olá, <pre>{men.from_user.first_name}</pre>!\n<b>\nMeu nome é @SHerlock_rbot. Adicione-me em um grupo e me coloque como Admin para utilizar todos os meus recursos!\n\nConheça abaixo, todos os meus comandos:</b>\n\n'
          bot.reply_to(men, menu, reply_markup=gen_markup() ,parse_mode='HTML')
         except:
                     bot.reply_to(men, 'start', reply_markup=gen_markup())
