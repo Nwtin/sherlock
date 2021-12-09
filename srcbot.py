@@ -10,7 +10,7 @@ EXCEPT = []
 
 NETIN = [] # OFF
 
-bot = telebot.TeleBot("5043772230:AAH1JAu0SwWgCIBTgtKS9DQW-1ThfCx7F0o")
+bot = telebot.TeleBot("5043800716:AAGx5aJcCWq3xmqQmp7HNEOOaeeuCnQ0mB8")
 
 def back_markup():
     markup = InlineKeyboardMarkup()
