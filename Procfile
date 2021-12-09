@@ -1,1 +1,1 @@
-worker: python sherlock.py
+worker: python srcbot.py
