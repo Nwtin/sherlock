@@ -550,7 +550,6 @@ def gen_markup():
     markup = InlineKeyboardMarkup()
     markup.row_width = 1
     markup.add(InlineKeyboardButton("🔍BUSCAS🔍", callback_data="cb_yes")
-        ,InlineKeyboardButton("🇧🇷API'S 🇧🇷", callback_data="cb_cnpj")
         ,InlineKeyboardButton("👥CONSULTAS GP 👥", url="https://t.me/consultassss")
     )
     return markup
