@@ -1,1 +1,1 @@
-worker: python srcbot.py
+worker: python jakescore.py
