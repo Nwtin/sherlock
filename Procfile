@@ -1,1 +1,1 @@
-worker: python jakescore.py
+worker: python main.py
